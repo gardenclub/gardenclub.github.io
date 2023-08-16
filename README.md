@@ -1,6 +1,6 @@
 # wpbsabi.github.io
 
-This is a blank page.  Make your own GitHub.io page following these instructions:
+The index.html file is a free webpage hosted on GitHub.io. To make your own page,   follow these instructions:
 https://pages.github.com/
 
 Then edit the ReadMe file. For example:
